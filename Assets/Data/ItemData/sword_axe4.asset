@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: sword_axe4
+  m_EditorClassIdentifier: 
+  itemID: 4
+  itemClass: 1
+  itemImage: {fileID: 21300000, guid: 9ec120a871bb8f24fb63e0aecd997f04, type: 3}
+  itemName:
+  - "Karadi\u015F"
+  - Blacktooth
+  description:
+  - "Kolay ve h\u0131zl\u0131 bir \xF6l\xFCm i\xE7in zor ve yava\u015F bir balta.
+    (%12 z\u0131rh delme)"
+  - A hard and slow ax for an easy and quick death. (%12 armor piercing)
+  magicalDamage: 0
+  physicalDamage: 40
+  energyPrice: 23
+  itemPrice: 480

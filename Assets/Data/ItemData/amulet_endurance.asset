@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: amulet_endurance
+  m_EditorClassIdentifier: 
+  itemID: 151
+  itemClass: 0
+  itemImage: {fileID: 0}
+  itemName:
+  - Kaya
+  - Rock
+  description:
+  - "\xC7\xF6l\xFCn sert ko\u015Fullar\u0131 bu t\u0131ls\u0131m\u0131n i\xE7ine
+    i\u015Flemi\u015F. Ad\u0131 gibi sa\u011Flam ve sars\u0131lmaz. Art\u0131k yere
+    daha sa\u011Flam bas\u0131yorsun. (Hasar direncin %50 artt\u0131.)"
+  - The harsh conditions of the desert have ineded into this amulet. It's as solid
+    and unshakable as its name. You're on the ground better now. (Damage resistance
+    increased by 50%)
+  magicalDamage: 0
+  physicalDamage: 0
+  energyPrice: 0
+  itemPrice: 0

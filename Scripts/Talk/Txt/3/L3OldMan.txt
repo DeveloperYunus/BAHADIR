@@ -1,0 +1,52 @@
+Biz Akça köyünün ahalisiyiz... En azından geriye kalanları.@We are the people of Akça village... At least the rest.
+Bizden yanada sorun yok istesekte olamaz zaten.@There's nothing wrong with our side either. We can't have it if we wanted to.
+Yolun açık olsun genç.@Good luck, young man.
+(boğazı düğümlenir) Golmeler... direndik ama biz savaşçı değiliz, yağmaladılar öldürdüler,sadece biz kaçabildik. Şimdi ise açlıkla savaşıyoruz... Hep aynı hikaye değilmi tek fark bu sefer ben anlatıcıyım.@(throat knotted) Golmeler... We resisted, but we are not warriors, they looted, they killed, only we were able to escape. Now we are fighting hunger... Isn't it always the same story, the only difference is that this time I'm the narrator.
+Yolun açık olsun genç.@Good luck, young man.
+(boğazı düğümlenir) Golmeler... direndik ama biz savaşçı değiliz, yağmaladılar öldürdüler,sadece biz kaçabildik. Şimdi ise açlıkla savaşıyoruz... Hep aynı hikaye değilmi tek fark bu sefer ben anlatıcıyım.@(throat knotted) Golmeler... We resisted, but we are not warriors, they looted, they killed, only we were able to escape. Now we are fighting hunger... Isn't it always the same story, the only difference is that this time I'm the narrator.
+Allah rahmet eylesin... Yolda birkaç golem tepeldim amca yağmalanmış bir köyden bahsediyorlardı sanırım sizdiniz. Geçmişi düzeltemem ama... İşte sizden çaldıkları. (@Rest in peace... I killed some golems on the way. Uncle, they were talking about a looted village, and I think it was you. I can't fix the past, but... Here's what they stole from you. (
+Teşekkür ederim genç, sen bize yardım ettin Allah da sana yardım etsin.@Thank you, young man, you helped us and God help you.
+Allah rahmet eylesin... Yolda birkaç golem tepeldim amca, yağmalanmış bir köyden bahsediyorlardı sanırım sizdiniz. Geçmişi düzeltemem ama... İşte sizden çaldıklarının bir kısmı. (@May God have mercy on them. I killed a few golems on the way, uncle. They were talking about a looted village, I think it was your village. I can't fix the past, but... Here is some of what they stole from you. (
+Teşekkür ederim genç, sen bize yardım ettin Allah da sana yardım etsin.@Thank you, young man, you helped us and God help you.
+Olsun genç, düşünmen bile soğuk sorunumuzu çözdü. İnşallah yardım başka yerden gelir.@Well, young man, even thinking about it solved our cold problem. I hope help comes from somewhere else.
+Başınız sağ olsun. Keşke yardım edebilsem ama esas benim yardıma ihtiyacım var be amca.@My condolences. I wish I could help, but I really need help, Uncle.
+Gerçi pek bir şeyimiz yok ama paylaşmak güzeldir. Al evlat.@We don't have much, but it's nice to share. Here, son.
+İnşallah gelir evlat.@I hope, son.
+Yolun açık olsun evlat.@Good luck with that, son.
+Amca acınız çok yaranız yenidir, lakin böyle zamanlarda bile elzem olan meseleler vardır nesliniz bu acıları çekmesin diye gerekirse taşla sopayla dahi olsa savaşmayı öğrenin.@Uncle, your pain is very new, but even in times like these, there are essential issues. Learn to fight, even with a stick, if necessary, so that your generation doesn't suffer.
+... Eğer hayatta kalırsak bu öğüdünü tutacağız evlat.@... If we survive, we'll take that advice, son.
+...Hiç mantıklı değil.@... It doesn't make any sense.
+Kendini tanıt yabancı.@Introduce yourself, stranger.
+İsmim Bahadır, siz kimsiniz?@My name is Bahadır, who are you?
+Sadece geciyorum sorun yok.@I'm just passing through.
+Ben yoluma devam edeyim biraz acelem var, hoşçakalın.@I'm in a bit of a hurry, bye.
+Haliniz pekte iyi görünmüyor, bir musibet falan mı geldi başınıza?@You don't look so good, did you have some kind of plague?
+(sorular)@(questions)
+Acelem var amca gitmeliyim.@I'm in a hurry, Uncle. I've got to go.
+Ne oldu size?@What happened to you?
+(sorular)@(questions)
+Başınız sağ olsun. Keşke size yardım edebilsem, ama muhtemelen aynı golemler benide soydu, elimde birşey yok.@My condolences. I wish I could help you, but probably the same golems robbed me, I've got nothing.
+Eyvallah evlat sende sağol.@Thank you, son.
+Allah rahmet eylesin. İşte sizden çaldıkları. (-40 altın)@May God bless you. Here's what they stole from you. (-40 gold)
+(Yalan) Esas benim yardıma ihtiyacım var. (+5 altın)@(Lie) I need help. (+5 gold)
+Kötü bir durum. Umarım size yardım etmek için birileri gelir.@It's a bad situation. I hope someone comes to help you.
+Allah rahmet eylesin. İşte sizden çaldıkları. (@Rest in peace. Here's what they stole from you. (
+ altın)@ gold)
+(Yalan) Esas benim yardıma ihtiyacım var. (+5 altın)@(Lie) I need help. (+5 gold)
+Kötu bir durum. Umarım size yardım etmek için birileri gelir.@It's a bad situation. I hope someone comes to help you.
+Allah rahmet eylesin. Malesef size yardım edecek elimde avucumda birşey yok.@May God have mercy on them. I'm afraid I have nothing in my hand to help you.
+(Yalan) Esas benim yardıma ihtiyacım var. (+5 altın)@(Lie) I need help. (+5 gold)
+Kötu bir durum. Umarım size yardım etmek için birileri gelir.@It's a bad situation. I hope someone comes to help you.
+Hoşçakalın amca gitmem gerek.@Goodbye, Uncle, I have to go.
+Güle güle.@Goodbye.
+Amin amca hepimize, benim gitmem lazım sağlıcakla kalın.@Thanks uncle. I have to go, stay safe.
+Kendinizi savunmayı öğrenin amca.@Learn to defend yourself, uncle.
+Çok sağolasın amca benim gitmem gerek. Hoşçakalın.@Thank you very much, Uncle, I have to go. Goodbye.
+Kendine dikkat edesin evlat.@Take care of yourself son.
+Benim gitme vaktim geldi amca hoşçakalın.@It's time for me to go uncle, goodbye.
+Yolun açık olsun evlat, umarım tekrar karşılaşırız.@Good luck, son, I hope we meet again.
+Burası neresi?@Where is this place?
+Çam mahallesine nasıl dönebilirim?@How do I get back to pinetown?
+...Osa'dayız.@... We're in Osa.
+Çam mahallesi... Malesef ilk defa duyuyorum evlat.@Pinetown... I'm afraid it's the first I've heard of it, son.
+Golemler, onlara karşı dikkat et akılsız ve saldırganlardır.@Golems, beware of them, are mindless and aggressive.

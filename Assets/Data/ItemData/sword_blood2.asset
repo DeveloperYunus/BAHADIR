@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: sword_blood2
+  m_EditorClassIdentifier: 
+  itemID: 7
+  itemClass: 1
+  itemImage: {fileID: 21300000, guid: f82dba9116b18a6448144d3083ae68c2, type: 3}
+  itemName:
+  - Karakan
+  - Blackblood
+  description:
+  - "Biraz kara \xE7elik biraz da t\u0131ls\u0131m ve bir damla kan. (%6 can \xE7alma)"
+  - Some black steel, some talisman and a drop of blood. (6% lifesteal)
+  magicalDamage: 0
+  physicalDamage: 10
+  energyPrice: 7
+  itemPrice: 150

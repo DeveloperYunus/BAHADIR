@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_13
+  m_EditorClassIdentifier: 
+  skillID: 13
+  SkillSprite: {fileID: 21300000, guid: 9f3f9bc4d3deaab44959aa92486d4575, type: 3}
+  skillName:
+  - "Y\u0131k\u0131m \xDCstad\u0131"
+  - Master of Destruction
+  skillDesc:
+  - "Zamanla i\u015Finde ustala\u015F\u0131yorsun y\u0131k\u0131m yetene\u011Fin
+    art\u0131k \xE7ok daha \xFCst\xFCn."
+  - As you master your job over time, your destruction skill is now much higher.
+  skillOpenDesc: 
+  can: 0
+  "z\u0131rh": 0
+  buyuHasari: 10
+  fizikselHasar: 0
+  enerji: 0
+  canCalma: 0
+  canYenilenmesi: 0
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 0
+  maxSkillLevel: 4
+  isUpgrade: 0

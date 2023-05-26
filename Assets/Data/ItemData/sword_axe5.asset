@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: sword_axe5
+  m_EditorClassIdentifier: 
+  itemID: 5
+  itemClass: 1
+  itemImage: {fileID: 21300000, guid: 854735d149865de48aa0942dd39968b9, type: 3}
+  itemName:
+  - Giyotin
+  - 'Guillotine  '
+  description:
+  - "Heybet ve y\u0131k\u0131m\u0131n takendisi. (%15 z\u0131rh delme)"
+  - The epitome of majesty and destruction. (%15 armor piercing)
+  magicalDamage: 0
+  physicalDamage: 47
+  energyPrice: 28
+  itemPrice: 700

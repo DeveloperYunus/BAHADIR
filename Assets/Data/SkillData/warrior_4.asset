@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_4
+  m_EditorClassIdentifier: 
+  skillID: 4
+  SkillSprite: {fileID: 21300000, guid: be9ad954e91903245a523908ae545089, type: 3}
+  skillName:
+  - "Ya\u015Fam Emen"
+  - Life Absorb
+  skillDesc:
+  - "Can \xE7alma ve z\u0131rh delme de\u011Ferini %10 art\u0131r\u0131r."
+  - Increases lifesteal and armor penetration by 10%.
+  skillOpenDesc: 
+  can: 0
+  "z\u0131rh": 0
+  buyuHasari: 0
+  fizikselHasar: 0
+  enerji: 0
+  canCalma: 10
+  canYenilenmesi: 0
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 0
+  maxSkillLevel: 2
+  isUpgrade: 0

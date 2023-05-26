@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_3
+  m_EditorClassIdentifier: 
+  skillID: 3
+  SkillSprite: {fileID: 21300000, guid: 4b7ae1ca8e4dff04c88dc381eb21582e, type: 3}
+  skillName:
+  - "Sa\u011Flam Duru\u015F"
+  - Solid Stance
+  skillDesc:
+  - "Can ve z\u0131rh de\u011Ferleri %5 artar."
+  - Health and armor are increased by 5%.
+  skillOpenDesc: 
+  can: 5
+  "z\u0131rh": 5
+  buyuHasari: 0
+  fizikselHasar: 0
+  enerji: 0
+  canCalma: 0
+  canYenilenmesi: 0
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 1
+  maxSkillLevel: 4
+  isUpgrade: 0

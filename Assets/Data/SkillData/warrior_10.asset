@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_10
+  m_EditorClassIdentifier: 
+  skillID: 10
+  SkillSprite: {fileID: 21300000, guid: f2e74359e5508974eb4077ffd875a902, type: 3}
+  skillName:
+  - Yenilenme
+  - Regeneration
+  skillDesc:
+  - "Can yenilenmesini yetenek s\xFCresi boyunca 1 kat art\u0131r\u0131r. Yenilenme
+    yetene\u011Fini a\xE7ar."
+  - Increases health regen by 1x for the duration of the ability. Unlocks the ability
+    to regenerate.
+  skillOpenDesc: "Yenilenme yetene\u011Fini a\xE7ar."
+  can: 0
+  "z\u0131rh": 0
+  buyuHasari: 0
+  fizikselHasar: 0
+  enerji: 0
+  canCalma: 0
+  canYenilenmesi: 1
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 0
+  maxSkillLevel: 3
+  isUpgrade: 0

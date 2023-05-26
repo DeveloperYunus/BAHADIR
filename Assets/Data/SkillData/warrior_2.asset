@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_2
+  m_EditorClassIdentifier: 
+  skillID: 2
+  SkillSprite: {fileID: 21300000, guid: 5954c6bb66d3cc9439bddc6b53592826, type: 3}
+  skillName:
+  - "Temel Sava\u015F\xE7\u0131 E\u011Fitimi"
+  - Basic Warrior Training
+  skillDesc:
+  - "Fiziksel hasar\u0131 %5 art\u0131r\u0131r."
+  - Increases physical damage by 5%.
+  can: 0
+  "z\u0131rh": 0
+  buyuHasari: 0
+  fizikselHasar: 5
+  enerji: 0
+  canCalma: 0
+  canYenilenmesi: 0
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 0
+  maxSkillLevel: 5
+  isUpgrade: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: sword_axe3
+  m_EditorClassIdentifier: 
+  itemID: 3
+  itemClass: 1
+  itemImage: {fileID: 21300000, guid: 6a9321a388e55bf4994ccbd899435f5e, type: 3}
+  itemName:
+  - Kolkoparan
+  - Armripper
+  description:
+  - "En \xE7ok tercih edilen balta \xE7e\u015Fidi g\xFCc\xFCndenmi yoksa fiyat\u0131ndan
+    m\u0131 bilinmez. (%9 z\u0131rh delme)"
+  - It is not known whether the most preferred ax type is due to its power or price.
+    (%9 armor piercing)
+  magicalDamage: 0
+  physicalDamage: 25
+  energyPrice: 18
+  itemPrice: 300

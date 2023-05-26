@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: amulet_goldenMilk
+  m_EditorClassIdentifier: 
+  itemID: 154
+  itemClass: 0
+  itemImage: {fileID: 0}
+  itemName:
+  - "Alt\u0131n S\xFCt\xFC"
+  - Golden Milk
+  description:
+  - "Tad\u0131n\u0131 bilen herkes y\xFCzy\u0131llar \xF6nce \xF6lm\xFC\u015F. Koruyucular\u0131n\u0131n
+    dahi el s\xFCrmeye korktu\u011Fu s\u0131v\u0131. Belkide bir \xE7ocuk masal\u0131.
+    Ger\xE7e\u011Fi Zerlik Han '\u0131n kar\u015F\u0131s\u0131nda \xF6\u011Freneceksin."
+  - Everyone who knew how to taste died centuries ago. The liquid that even his protectors
+    are afraid to touch. Maybe it's a children's tale. You'll find out the truth
+    in front of Zerlik Han.
+  magicalDamage: 0
+  physicalDamage: 0
+  energyPrice: 0
+  itemPrice: 0

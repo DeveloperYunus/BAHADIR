@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: amulet_health
+  m_EditorClassIdentifier: 
+  itemID: 150
+  itemClass: 0
+  itemImage: {fileID: 0}
+  itemName:
+  - "\xD6m\xFCr"
+  - Life
+  description:
+  - "Ya\u015Fam Bah\xE7esinden bir arma\u011Fan, sa\u011Fl\u0131k t\u0131ls\u0131m\u0131.
+    Eline ald\u0131\u011F\u0131n andan itibaren ye\u015Fil enerjisinin kan\u0131nda
+    dola\u015Ft\u0131\u011F\u0131n\u0131n ve damarlar\u0131n\u0131n deli gibi att\u0131\u011F\u0131n\u0131
+    hissediyorsun. Sanki sonsuza dek ko\u015Fabilirmi\u015Fsin gibi... (Sa\u011Fl\u0131\u011F\u0131n\u0131
+    3 kat\u0131na \xE7\u0131kar\u0131r.)"
+  - A gift from the Garden of Life, a health amulet. From the moment you pick it
+    up, you feel your green energy running through your blood. It's like you've been
+    reborn. (triples your health.)
+  magicalDamage: 0
+  physicalDamage: 0
+  energyPrice: 0
+  itemPrice: 0

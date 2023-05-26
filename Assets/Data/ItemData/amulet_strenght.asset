@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: amulet_strenght
+  m_EditorClassIdentifier: 
+  itemID: 152
+  itemClass: 0
+  itemImage: {fileID: 0}
+  itemName:
+  - "G\xFC\xE7"
+  - Strength
+  description:
+  - "Efsaneye g\xF6re bu t\u0131ls\u0131m, kendisine sahip olma yolunda can veren
+    b\xFCt\xFCn sava\u015F\xE7\u0131lar\u0131n g\xFCc\xFCn\xFC i\xE7inde bar\u0131nd\u0131r\u0131yordu."
+  - According to legend, this amulet contained the power of all the warriors who
+    died on the way to owning it. (Physical damage doubled.)
+  magicalDamage: 0
+  physicalDamage: 0
+  energyPrice: 0
+  itemPrice: 0

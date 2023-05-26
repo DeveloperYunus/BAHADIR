@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: sword_blood5
+  m_EditorClassIdentifier: 
+  itemID: 10
+  itemClass: 1
+  itemImage: {fileID: 21300000, guid: 674fd5651a4c3944f84f5489e3e28dc7, type: 3}
+  itemName:
+  - Serberus
+  - Cerberus
+  description:
+  - "Bu k\u0131l\u0131\xE7 ate\u015F ve kan ile d\xF6v\xFCld\xFC. Ve d\xF6v\xFClmeye
+    devam edecek... (%15 can \xE7alma)"
+  - This sword was forged with fire and blood. And it will continue to be forge...
+    (15% lifesteal)
+  magicalDamage: 0
+  physicalDamage: 35
+  energyPrice: 21
+  itemPrice: 540

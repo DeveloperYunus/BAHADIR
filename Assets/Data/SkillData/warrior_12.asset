@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2264329044769f4faab4c5773754617, type: 3}
+  m_Name: warrior_12
+  m_EditorClassIdentifier: 
+  skillID: 12
+  SkillSprite: {fileID: 21300000, guid: dac69ad9051ea1d48ac18a5b1d406df0, type: 3}
+  skillName:
+  - Buztopu
+  - Iceball
+  skillDesc:
+  - "Buztopu yetene\u011Fini a\xE7ar."
+  - Unlocks the Iceball ability.
+  skillOpenDesc: 
+  can: 0
+  "z\u0131rh": 0
+  buyuHasari: 0
+  fizikselHasar: 0
+  enerji: 0
+  canCalma: 0
+  canYenilenmesi: 0
+  enerjiYenilenmesi: 0
+  canYenilenmesiPasif: 0
+  enerjiYenilenmesiPasif: 0
+  skillLevel: 0
+  maxSkillLevel: 1
+  isUpgrade: 0

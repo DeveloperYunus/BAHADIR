@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff3b5b206c496549935d190f167f8d4, type: 3}
+  m_Name: elixir_health
+  m_EditorClassIdentifier: 
+  itemID: 91
+  itemClass: 3
+  itemImage: {fileID: 21300000, guid: 2968ee81862e8c94197be1302b6697fa, type: 3}
+  itemName:
+  - "Sa\u011Fl\u0131k \u0130ksiri"
+  - Health Potion
+  description:
+  - "Sa\u011Fl\u0131\u011F\u0131 25 art\u0131r\u0131r."
+  - Increase health by 25.
+  magicalDamage: 0
+  physicalDamage: 25
+  energyPrice: 0
+  itemPrice: 10
