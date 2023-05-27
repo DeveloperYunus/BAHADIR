@@ -8,4 +8,4 @@
 - Farklı tür oynanış ve silah çeşitliliği - (Scriptable object)
 - Faklı sonları olan hikayeler ve bol diyaloglu iletişim secenekleri
 
-[<img src="blob:https://imgur.com/f389df45-be64-4ecb-ab3c-e76b6c37916f" width="50%">](https://www.youtube.com/watch?v=OI_DAkIWajc&t=4s "Now in Android: 55")
+[<img src="https://i.imgur.com/6AKWBgP.png" width="50%">](https://www.youtube.com/watch?v=OI_DAkIWajc&t=4s "Now in Android: 55")
