@@ -1,5 +1,5 @@
 # BAHADIR
-2. Projem : 2D aksiyon platform oyunu
+2. Projem : 2D aksiyon rpg platform oyunu
 
 İçerik
 - Temel 2D fizik sistemleri
