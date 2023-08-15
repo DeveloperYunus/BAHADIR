@@ -1,11 +1,14 @@
 # BAHADIR
-2. Projem : 2D aksiyon rpg platform oyunu
+Project: 2D Action RPG Platform Game
 
-İçerik
-- Temel 2D fizik sistemleri
-- Envanter sistemi
-- Yetenek ağacı - (Scriptable object)
-- Farklı tür oynanış ve silah çeşitliliği - (Scriptable object)
-- Faklı sonları olan hikayeler ve bol diyaloglu iletişim secenekleri
+Content;
 
-[<img src="https://i.imgur.com/6AKWBgP.png" width="50%">](https://www.youtube.com/watch?v=OI_DAkIWajc&t=4s "Now in Android: 55")
+- Basic 2D physics systems
+- Inventory system
+- Skill tree - (Scriptable object)
+- Various types of gameplay and weapon variety - (Scriptable object)
+- Stories with different endings and abundant dialogue-based communication options
+
+## For go Google Play, click on the photo below.
+
+[<img src="https://i.imgur.com/6AKWBgP.png" width="80%">](https://www.youtube.com/watch?v=OI_DAkIWajc&t=4s "Now in Android: 55")
